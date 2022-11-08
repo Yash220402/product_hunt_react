@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/product_hunt_react/static/css/main.5294870c.css",
+    "main.js": "/product_hunt_react/static/js/main.3a38fbd7.js",
+    "index.html": "/product_hunt_react/index.html",
+    "main.5294870c.css.map": "/product_hunt_react/static/css/main.5294870c.css.map",
+    "main.3a38fbd7.js.map": "/product_hunt_react/static/js/main.3a38fbd7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5294870c.css",
+    "static/js/main.3a38fbd7.js"
+  ]
+}
